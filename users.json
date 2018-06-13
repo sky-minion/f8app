@@ -1,0 +1,18 @@
+[
+  {
+    "id": "9ccdc296-dc60-4b06-b8a2-f44aa62f65d4",
+    "email": "skystore6@gmail.com",
+    "password_hash": "$2a$10$woSpzsuvGb1KbNQzcUsW2eU5o1p4Z8PpqP5hLJlUM6j.EXU9vQx0G",
+    "provider_credentials": [
+      {
+        "id": "15308466-154c-4df1-9302-87568ac552c2",
+        "email": "skystore6@gmail.com",
+        "full_name": "Initial Onboarding User credentials",
+        "provider_name": "GitHub",
+        "type": "github",
+        "remote_host": "github.com",
+        "encrypted_api_token": "smFciZy2KNpV8U0MovvSXIl1rAzaVXZArFSUWOm9EBKlVqAkgHb4/ObtJAir\nnAs4mPmXQZzGNIckEWnVZWMkqg==\n"
+      }
+    ]
+  }
+]
